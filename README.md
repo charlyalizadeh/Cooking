@@ -3,7 +3,7 @@ voici les dépendances du projet (sans prendre en compte celles de base + MySql.
 * PresentationCode
 * WindowsBase
 
-Il se peut que l'execution s'arrête sans pour autant planter (ContextSwitchDeadlock).  
+Il se peut que l'éxécution s'arrête sans pour autant planter (ContextSwitchDeadlock).  
 Il suffit alors d'appuyer sur continuer (sous Visual Studio).  
   
 Ce projet ne tourne que sur Windows.
